@@ -17,11 +17,11 @@
 
 | 주차 | 발제자 | 개념 발표 | 과제 |
 | --- | --- | --- | --- |
-| 1주차 | - | - | 코드업 100제 |
-| 2주차 | [강주란](https://github.com/Jurannn) | 1장 : 알고리즘 기초 |  |
-| 3주차 | 권성은 | 2장 : 기본 자료구조와 배열 |  |
+| 1주차 | - | - | [코드업 100제](https://www.codeup.kr/problemsetsol.php?psid=33) |
+| 2주차 | [강주란](https://github.com/Jurannn) | 1장 : 알고리즘 기초 |[바로가기](https://github.com/Jurannn/flipgorithm/blob/main/02/Readme.md#%EA%B3%BC%EC%A0%9C---math-%EC%88%98%ED%95%99)  |
+| 3주차 | 권성은 | 2장 : 기본 자료구조와 배열 | [바로가기](https://github.com/Jurannn/flipgorithm/blob/main/03/README.md#%EA%B3%BC%EC%A0%9C---math-%EC%88%98%ED%95%99) |
 | 4주차 | [김대엽](https://github.com/kimdaeyeobbb) | 3장 : 검색 알고리즘 |  |
-| 5주차 | 차승현 | 4장 : 스택과 큐 |  |
+| 5주차 | 차승현 | 4장 : 스택과 큐 |[바로가기](https://github.com/Jurannn/flipgorithm/tree/main/04#%EA%B3%BC%EC%A0%9C---data-structre-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) |
 | 6주차 | 서종현 | 5장 : 재귀 알고리즘 |  |
 | 7주차 |  | 6-1장 : 정렬 알고리즘|  |
 | 8주차 |  | 6-2장 : 정렬 알고리즘 |  |
@@ -35,3 +35,7 @@
 
 1. 결석시 퍼실이(강주란)에게 “스터디 시작 전” 미리 얘기해주세요. 무단 결석은 금지입니다. <br> (발제자가 결석 시, 1주 전 스터디에서 말씀해주세요.)
 2. 사전학습을 충실하게 해주세요. 깃허브에 업로드는 필수!
+
+
+## 참고 자료
+[백준 문제](https://github.com/tony9402/baekjoon)
