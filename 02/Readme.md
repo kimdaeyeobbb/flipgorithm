@@ -1,12 +1,9 @@
 # 2회차
 
-## Math (수학)
+## 책 진도 
 
+## 과제 - Math (수학)
 
-<br>
-
-
-[백준 문제집](https://www.acmicpc.net/workbook/view/6781)
 |         문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
 | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/5618" target="_blank">5618</a> | <a href="https://www.acmicpc.net/problem/5618" target="_blank">공약수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | <a href='https://github.com/tony9402/baekjoon/tree/main/solution/math/5618'>바로가기</a> |
