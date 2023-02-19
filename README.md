@@ -18,7 +18,7 @@
 | 주차 | 발제자 | 개념 발표 | 과제 |
 | --- | --- | --- | --- |
 | 1주차 | - | - | 코드업 100제 |
-| 2주차 | [강주란](https://github.com/Jurannn) | 1장 : 알고리즘 기초 |  |
+| 2주차 | [강주란](https://github.com/Jurannn) | 1장 : 알고리즘 기초 |[바로가기](https://github.com/Jurannn/flipgorithm/blob/main/02/Readme.md#%EA%B3%BC%EC%A0%9C---math-%EC%88%98%ED%95%99)  |
 | 3주차 | 권성은 | 2장 : 기본 자료구조와 배열 |  |
 | 4주차 | [김대엽](https://github.com/kimdaeyeobbb) | 3장 : 검색 알고리즘 |  |
 | 5주차 | 차승현 | 4장 : 스택과 큐 |  |
