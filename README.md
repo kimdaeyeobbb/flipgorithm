@@ -11,6 +11,23 @@
 ## ✨ 목표
 <Do it! 자료구조와 함께 배우는 알고리즘 입문 : 파이썬 편> 완독
 <br>
+<br>
+
+
+## 참가자
+[강주란](https://github.com/Jurannn)
+[김대엽](https://github.com/kimdaeyeobbb)
+권성은
+서종현
+차승현 
+[임광재](https://github.com/KWANGJAEIM)
+[권세현](https://github.com/kshhhhh91)
+[허진영](https://github.com/hih01241)
+
+
+
+<br>
+<br>
 
 ## 🤝 스터디 계획
 - 매 주차 개념 발표 + 관련 문제 리뷰
@@ -18,14 +35,14 @@
 | 주차 | 발제자 | 개념 발표 | 과제 |
 | --- | --- | --- | --- |
 | 1주차 | - | - | [코드업 100제](https://www.codeup.kr/problemsetsol.php?psid=33) |
-| 2주차 | [강주란](https://github.com/Jurannn) | 1장 : 알고리즘 기초 |[바로가기](https://github.com/Jurannn/flipgorithm/blob/main/02/Readme.md#%EA%B3%BC%EC%A0%9C---math-%EC%88%98%ED%95%99)  |
+| 2주차 | 강주란 | [1장 : 알고리즘 기초](https://github.com/Jurannn/flipgorithm/blob/main/02/CH1_by_juran.pdf) |[바로가기](https://github.com/Jurannn/flipgorithm/blob/main/02/Readme.md#%EA%B3%BC%EC%A0%9C---math-%EC%88%98%ED%95%99)  |
 | 3주차 | 권성은 | 2장 : 기본 자료구조와 배열 | [바로가기](https://github.com/Jurannn/flipgorithm/blob/main/03/README.md#%EA%B3%BC%EC%A0%9C---math-%EC%88%98%ED%95%99) |
-| 4주차 | [김대엽](https://github.com/kimdaeyeobbb) | 3장 : 검색 알고리즘 |  |
-| 5주차 | 차승현 | 4장 : 스택과 큐 |[바로가기](https://github.com/Jurannn/flipgorithm/tree/main/04#%EA%B3%BC%EC%A0%9C---data-structre-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) |
+| 4주차 | 김대엽 | 3장 : 검색 알고리즘 |  |
+| 5주차 | 차승현 | 4장 : 스택과 큐 |[바로가기](https://github.com/Jurannn/flipgorithm/tree/main/05#%EA%B3%BC%EC%A0%9C---data-structre-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) |
 | 6주차 | 서종현 | 5장 : 재귀 알고리즘 |  |
-| 7주차 |  | 6-1장 : 정렬 알고리즘|  |
-| 8주차 |  | 6-2장 : 정렬 알고리즘 |  |
-| 9주차 |  | 7장 : 문자열 검색 |  |
+| 7주차 | 임광재 | 6-1장 : 정렬 알고리즘|  |
+| 8주차 | 허진영 | 6-2장 : 정렬 알고리즘 |  |
+| 9주차 | 권세현 | 7장 : 문자열 검색 |  |
 | 10주차 |  | 8장 : 리스트 |  |
 | 11주차 |  | 9장 : 트리 |  |
 
