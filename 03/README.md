@@ -1,6 +1,9 @@
 # 3회차
 
 ## 개념
+교재 2장 기본 자료구조와 배열
+<br>
+<br>
 
 ## 과제 - Math (수학)
 
@@ -14,7 +17,6 @@
 
 
 <br>
-<br>
 
 
 ### 추가 문제
@@ -22,3 +24,6 @@
 | :-----: | :-----: | :-----: | :-----: |
 | <a href="https://www.acmicpc.net/problem/4134" target="_blank">4134</a> | <a href="https://www.acmicpc.net/problem/4134" target="_blank">다음 소수</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/tony9402/baekjoon/tree/main/solution/math/4134">바로가기</a> |
 | <a href="https://www.acmicpc.net/problem/21920" target="_blank">21920</a> | <a href="https://www.acmicpc.net/problem/21920" target="_blank">서로소 평균</a> | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | <a href="https://github.com/tony9402/baekjoon/tree/main/solution/math/21920">바로가기</a> |
+<br>
+
+[그 외 수학 문제](https://github.com/tony9402/baekjoon/tree/main/math)
