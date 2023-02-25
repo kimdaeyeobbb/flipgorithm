@@ -17,7 +17,7 @@
 ## 참가자
 [강주란](https://github.com/Jurannn)
 [김대엽](https://github.com/kimdaeyeobbb)
-권성은
+[권성은](https://github.com/sekwon)
 서종현
 차승현 
 [임광재](https://github.com/KWANGJAEIM)
