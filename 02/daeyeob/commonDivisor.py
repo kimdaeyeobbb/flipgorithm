@@ -1,7 +1,7 @@
 n = int(input())
 numList = list(map(int,input().split()))
 
-# 최대공약수 찾기 - 윸틀리드 호제법
+# 최대공약수 찾기 - 유클리드 호제법
 def findGcd(num1,num2):
     while (num2):
         rest = num1%num2
@@ -18,7 +18,13 @@ divisor = set()
 for num in range(1, int(gcd**(1/2))+1):
     if (gcd%num == 0):
         divisor.add(num)
-        divisor.add(gcd//num)
 
 # 출력
 for num in sorted(divisor): print(num)
+
+'''
+효율적으로 약수찾기
+https://kbw1101.tistory.com/32
+
+
+'''
