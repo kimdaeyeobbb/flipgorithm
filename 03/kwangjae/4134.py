@@ -2,19 +2,12 @@ import sys
 import math
 N = int(sys.stdin.readline().strip())
 
-def is_prime(n): 
-    for i in range(2,int(math.sqrt(n))+1 ):
-        if n%i ==0:
-            return False
-    return True 
+nums = list(map(int, sys.stdin.readline().strip().split()))
+target = int(sys.stdin.readline().strip())
+answer =[]
+for num in nums:
+    if num%target!=0 and target%num!=0:
+        answer.append(num)
+answer =sum(answer)/len(answer)
 
-for i in range(N):
-    num = int(sys.stdin.readline().strip())
-    if num ==0 or num ==1:
-        print(2)
-    else: 
-        while True:
-            if is_prime(num)==True:
-                print(num)
-                break 
-            num+=1
+print('%0.6f'%(answer))
