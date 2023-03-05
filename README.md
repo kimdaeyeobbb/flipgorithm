@@ -37,7 +37,7 @@
 | 1주차 | - | - | [코드업 100제](https://www.codeup.kr/problemsetsol.php?psid=33) |
 | 2주차 | 강주란 | [1장 : 알고리즘 기초](https://github.com/Jurannn/flipgorithm/blob/main/02/CH1_by_juran.pdf) |[바로가기](https://github.com/Jurannn/flipgorithm/blob/main/02/Readme.md#%EA%B3%BC%EC%A0%9C---math-%EC%88%98%ED%95%99)  |
 | 3주차 | 권성은 | 2장 : 기본 자료구조와 배열 | [바로가기](https://github.com/Jurannn/flipgorithm/blob/main/03/README.md#%EA%B3%BC%EC%A0%9C---math-%EC%88%98%ED%95%99) |
-| 4주차 | 강주란 | 3장 : 검색 알고리즘 |  |
+| 4주차 | 강주란 | 3장 : 검색 알고리즘 | [바로가기](https://github.com/kimdaeyeobbb/flipgorithm/tree/main/04#%EA%B3%BC%EC%A0%9C---%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%ED%95%B4%EC%8B%9C) |
 | 5주차 | 차승현 | 4장 : 스택과 큐 |[바로가기](https://github.com/Jurannn/flipgorithm/tree/main/05#%EA%B3%BC%EC%A0%9C---data-structre-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) |
 | 6주차 | 서종현 | 5장 : 재귀 알고리즘 |  |
 | 7주차 | 임광재 | 6-1장 : 정렬 알고리즘|  |
