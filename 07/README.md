@@ -5,24 +5,12 @@
 <br>
 <br>
 
-## 과제 - 
+## 과제 - 정렬 & 버블 정렬 & 선택 정렬 
 
-|문제 번호|문제 이름|난이도|풀이 링크|
-| :-----: | :-----: | :-----: | :-----: |
-<!--
-|<a href="https://www.acmicpc.net/problem/1789" target="_blank">1789</a>|<a href="https://www.acmicpc.net/problem/1789" target="_blank">수들의 합|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"/>|[풀이 링크](https://github.com/tony9402/baekjoon/tree/main/solution/binary_search/1789)|
-|<a href="https://www.acmicpc.net/problem/10815" target="_blank">10815</a>|<a href="https://www.acmicpc.net/problem/10815" target="_blank">숫자 카드|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"/>|[풀이 링크](https://github.com/tony9402/baekjoon/tree/main/solution/binary_search/10815)|
-|<a href="https://www.acmicpc.net/problem/2417" target="_blank">2417</a>|<a href="https://www.acmicpc.net/problem/2417" target="_blank">정수 제곱근|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"/>|[풀이 링크](https://github.com/tony9402/baekjoon/tree/main/solution/binary_search/2417)|
-|<a href="https://www.acmicpc.net/problem/1620" target="_blank">1620</a>|<a href="https://www.acmicpc.net/problem/1620" target="_blank">나는야 포켓몬 마스터 이다솜</a>| <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"/>| |
-|<a href="https://www.acmicpc.net/problem/2776" target="_blank">2776</a>|<a href="https://www.acmicpc.net/problem/2776" target="_blank">암기왕</a>| <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"/>| |
-
-<br>
-
-
-### 추가 문제
-|        문제 번호         |        문제 이름         |         난이도          |        풀이 링크         |
-| :-----: | :-----: | :-----: | :-----: |
-|<a href="https://www.acmicpc.net/problem/1302" target="_blank">1302</a>|<a href="https://www.acmicpc.net/problem/1302" target="_blank">베스트셀러</a>| <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"/>| |
-|<a href="https://www.acmicpc.net/problem/10546" target="_blank">10546</a>|<a href="https://www.acmicpc.net/problem/10546" target="_blank">배부른 마라토너</a>| <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"/>| |
-|<a href="https://www.acmicpc.net/problem/9375" target="_blank">9375</a>|<a href="https://www.acmicpc.net/problem/9375" target="_blank">패션왕 신해빈</a>| <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg"/>| |
-|<a href="https://www.acmicpc.net/problem/19583" target="_blank">19583</a>|<a href="https://www.acmicpc.net/problem/19583" target="_blank">싸이버개강총회</a>| <img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"/>| |
+|문제 이름|난이도|풀이 링크|
+| :-----: | :-----: | :-----: |
+|<a href="https://www.acmicpc.net/problem/23968" target="_blank">알고리즘 수업 - 버블 정렬 1|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg"/>||
+|<a href="https://www.acmicpc.net/problem/23881" target="_blank">알고리즘 수업 - 선택 정렬 1|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg"/>||
+|<a href="https://www.acmicpc.net/problem/10814" target="_blank">나이순 정렬|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"/>||
+|<a href="https://www.acmicpc.net/problem/1920" target="_blank">수 찾기|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"/>||
+|<a href="https://www.acmicpc.net/problem/1377" target="_blank">버블 소트|<img height="25px" width="25px" src="https://d2gd6pc034wcta.cloudfront.net/tier/14.svg"/>||
