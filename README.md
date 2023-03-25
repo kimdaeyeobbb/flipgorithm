@@ -18,7 +18,7 @@
 [강주란](https://github.com/Jurannn)
 [김대엽](https://github.com/kimdaeyeobbb)
 [권성은](https://github.com/sekwon)
-서종현
+서종헌
 차승현 
 [임광재](https://github.com/KWANGJAEIM)
 [권세현](https://github.com/kshhhhh91)
@@ -39,8 +39,8 @@
 | 3주차 | 3월 4일 | 권성은 | 2장 : 기본 자료구조와 배열 | [바로가기](https://github.com/Jurannn/flipgorithm/blob/main/03/README.md#%EA%B3%BC%EC%A0%9C---math-%EC%88%98%ED%95%99) |
 | 4주차 | 3월 11일 | 강주란 | 3장 : 검색 알고리즘 | [바로가기](https://github.com/kimdaeyeobbb/flipgorithm/tree/main/04#%EA%B3%BC%EC%A0%9C---%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89-%ED%95%B4%EC%8B%9C) |
 | 5주차 | 3월 18일 | 차승현 | 4장 : 스택과 큐 |[바로가기](https://github.com/Jurannn/flipgorithm/tree/main/05#%EA%B3%BC%EC%A0%9C---data-structre-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0) |
-| 6주차 | 3월 25일 | 서종현 | 5장 : 재귀 알고리즘 |  |
-| 7주차 | 4월 1일 | 임광재 | 6-1장 : 정렬 알고리즘|  |
+| 6주차 | 3월 25일 | 서종헌 | 5장 : 재귀 알고리즘 |[바로가기](https://github.com/kimdaeyeobbb/flipgorithm/tree/main/06)|
+| 7주차 | 4월 1일 | 임광재 | 6-1장 : 정렬 알고리즘|[바로가기](https://github.com/kimdaeyeobbb/flipgorithm/tree/main/07)|
 | 8주차 | 4월 8일 | 허진영 | 6-2장 : 정렬 알고리즘 |  |
 | 9주차 | 4월 15일 | 권세현 | 7장 : 문자열 검색 |  |
 | 10주차 | 4월 22일 | 김대엽 | 8장 : 리스트 |  |
